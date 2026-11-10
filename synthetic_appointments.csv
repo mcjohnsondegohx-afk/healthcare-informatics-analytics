@@ -1,0 +1,1201 @@
+appointment_id,appointment_date,facility,specialty,days_to_appointment,checkin_wait_minutes,status
+APT00001,2026-04-06,Columbia West,Primary Care,12,0,Completed
+APT00002,2026-05-18,Columbia West,Primary Care,14,17,Completed
+APT00003,2026-05-04,Towson North,Primary Care,12,21,Completed
+APT00004,2026-01-22,Baltimore Central,Cardiology,15,12,Completed
+APT00005,2026-04-20,Baltimore Central,Primary Care,26,9,Completed
+APT00006,2026-04-09,Towson North,Primary Care,27,,No Show
+APT00007,2026-05-07,Baltimore Central,Endocrinology,14,,No Show
+APT00008,2026-06-26,Baltimore Central,Orthopedics,19,17,Completed
+APT00009,2026-04-16,Columbia West,Primary Care,24,23,Completed
+APT00010,2026-01-20,Baltimore Central,Primary Care,14,22,Completed
+APT00011,2026-05-20,Towson North,Orthopedics,24,16,Completed
+APT00012,2026-01-19,Towson North,Orthopedics,30,3,Completed
+APT00013,2026-02-02,Towson North,Primary Care,10,15,Completed
+APT00014,2026-04-01,Baltimore Central,Primary Care,9,,No Show
+APT00015,2026-01-28,Towson North,Primary Care,19,25,Completed
+APT00016,2026-02-19,Towson North,Orthopedics,23,,No Show
+APT00017,2026-06-18,Towson North,Cardiology,15,19,Completed
+APT00018,2026-01-19,Baltimore Central,Cardiology,10,14,Completed
+APT00019,2026-03-25,Towson North,Endocrinology,11,18,Completed
+APT00020,2026-05-18,Towson North,Orthopedics,35,1,Completed
+APT00021,2026-04-21,Columbia West,Primary Care,12,18,Completed
+APT00022,2026-02-18,Baltimore Central,Primary Care,0,3,Completed
+APT00023,2026-04-29,Baltimore Central,Cardiology,43,22,Completed
+APT00024,2026-04-15,Towson North,Primary Care,0,12,Completed
+APT00025,2026-03-26,Towson North,Primary Care,0,9,Completed
+APT00026,2026-03-25,Baltimore Central,Cardiology,20,23,Completed
+APT00027,2026-06-10,Towson North,Primary Care,7,,No Show
+APT00028,2026-01-12,Baltimore Central,Primary Care,14,17,Completed
+APT00029,2026-06-16,Baltimore Central,Primary Care,13,22,Completed
+APT00030,2026-05-06,Baltimore Central,Cardiology,28,22,Completed
+APT00031,2026-04-15,Baltimore Central,Orthopedics,26,23,Completed
+APT00032,2026-05-28,Towson North,Primary Care,24,7,Completed
+APT00033,2026-03-25,Columbia West,Primary Care,9,,No Show
+APT00034,2026-04-27,Columbia West,Primary Care,12,11,Completed
+APT00035,2026-06-17,Baltimore Central,Primary Care,23,24,Completed
+APT00036,2026-03-24,Baltimore Central,Primary Care,19,3,Completed
+APT00037,2026-03-09,Columbia West,Primary Care,1,5,Completed
+APT00038,2026-04-15,Towson North,Orthopedics,15,0,Completed
+APT00039,2026-04-13,Towson North,Primary Care,0,23,Completed
+APT00040,2026-04-08,Towson North,Orthopedics,28,16,Completed
+APT00041,2026-06-11,Columbia West,Orthopedics,21,0,Completed
+APT00042,2026-04-27,Columbia West,Primary Care,16,10,Completed
+APT00043,2026-05-28,Towson North,Orthopedics,31,23,Completed
+APT00044,2026-03-24,Towson North,Cardiology,13,,No Show
+APT00045,2026-02-09,Columbia West,Cardiology,26,,No Show
+APT00046,2026-05-07,Baltimore Central,Cardiology,32,,No Show
+APT00047,2026-06-23,Baltimore Central,Endocrinology,10,16,Completed
+APT00048,2026-03-10,Towson North,Endocrinology,15,17,Completed
+APT00049,2026-06-26,Baltimore Central,Primary Care,12,12,Completed
+APT00050,2026-01-12,Columbia West,Primary Care,11,6,Completed
+APT00051,2026-04-07,Baltimore Central,Primary Care,31,0,Completed
+APT00052,2026-02-11,Columbia West,Cardiology,31,9,Completed
+APT00053,2026-05-22,Baltimore Central,Primary Care,22,,No Show
+APT00054,2026-04-09,Baltimore Central,Primary Care,13,28,Completed
+APT00055,2026-04-13,Columbia West,Primary Care,0,17,Completed
+APT00056,2026-04-16,Baltimore Central,Cardiology,16,39,Completed
+APT00057,2026-06-29,Towson North,Orthopedics,16,5,Completed
+APT00058,2026-04-27,Baltimore Central,Cardiology,25,21,Completed
+APT00059,2026-05-08,Columbia West,Primary Care,11,4,Completed
+APT00060,2026-02-06,Towson North,Orthopedics,26,0,Completed
+APT00061,2026-03-23,Columbia West,Cardiology,38,16,Completed
+APT00062,2026-06-22,Towson North,Cardiology,28,26,Completed
+APT00063,2026-04-07,Towson North,Orthopedics,15,,No Show
+APT00064,2026-01-14,Towson North,Primary Care,18,3,Completed
+APT00065,2026-04-13,Columbia West,Endocrinology,16,18,Completed
+APT00066,2026-03-16,Towson North,Cardiology,37,11,Completed
+APT00067,2026-01-21,Columbia West,Primary Care,21,19,Completed
+APT00068,2026-04-10,Towson North,Primary Care,19,18,Completed
+APT00069,2026-03-16,Towson North,Cardiology,34,5,Completed
+APT00070,2026-02-26,Baltimore Central,Primary Care,3,22,Completed
+APT00071,2026-03-27,Towson North,Orthopedics,15,22,Completed
+APT00072,2026-03-02,Baltimore Central,Endocrinology,32,,No Show
+APT00073,2026-05-15,Baltimore Central,Primary Care,22,0,Completed
+APT00074,2026-02-23,Towson North,Primary Care,0,18,Completed
+APT00075,2026-01-09,Columbia West,Orthopedics,34,3,Completed
+APT00076,2026-05-21,Baltimore Central,Orthopedics,20,8,Completed
+APT00077,2026-02-09,Columbia West,Primary Care,16,10,Completed
+APT00078,2026-01-12,Baltimore Central,Orthopedics,1,14,Completed
+APT00079,2026-01-12,Towson North,Orthopedics,18,6,Completed
+APT00080,2026-03-31,Baltimore Central,Cardiology,22,18,Completed
+APT00081,2026-04-17,Baltimore Central,Primary Care,18,,No Show
+APT00082,2026-01-22,Towson North,Cardiology,21,7,Completed
+APT00083,2026-06-08,Columbia West,Endocrinology,17,18,Completed
+APT00084,2026-02-16,Baltimore Central,Cardiology,23,19,Completed
+APT00085,2026-01-09,Towson North,Primary Care,15,0,Completed
+APT00086,2026-03-17,Columbia West,Primary Care,18,29,Completed
+APT00087,2026-05-25,Towson North,Primary Care,15,0,Completed
+APT00088,2026-02-17,Towson North,Orthopedics,26,,No Show
+APT00089,2026-02-02,Towson North,Primary Care,19,5,Completed
+APT00090,2026-02-16,Baltimore Central,Primary Care,23,,No Show
+APT00091,2026-03-02,Towson North,Primary Care,18,,No Show
+APT00092,2026-03-26,Baltimore Central,Primary Care,17,17,Completed
+APT00093,2026-04-06,Columbia West,Endocrinology,26,20,Completed
+APT00094,2026-01-05,Baltimore Central,Primary Care,14,10,Completed
+APT00095,2026-03-03,Columbia West,Orthopedics,15,17,Completed
+APT00096,2026-05-04,Towson North,Endocrinology,33,20,Completed
+APT00097,2026-06-25,Baltimore Central,Primary Care,26,11,Completed
+APT00098,2026-03-09,Baltimore Central,Orthopedics,31,20,Completed
+APT00099,2026-01-05,Baltimore Central,Cardiology,20,,No Show
+APT00100,2026-04-17,Baltimore Central,Cardiology,16,10,Completed
+APT00101,2026-02-18,Baltimore Central,Primary Care,24,15,Completed
+APT00102,2026-03-19,Baltimore Central,Orthopedics,13,23,Completed
+APT00103,2026-04-27,Baltimore Central,Endocrinology,23,,No Show
+APT00104,2026-05-25,Baltimore Central,Cardiology,15,30,Completed
+APT00105,2026-05-28,Baltimore Central,Cardiology,17,,No Show
+APT00106,2026-03-02,Baltimore Central,Cardiology,30,,No Show
+APT00107,2026-01-14,Baltimore Central,Cardiology,23,20,Completed
+APT00108,2026-02-17,Towson North,Cardiology,28,,No Show
+APT00109,2026-01-22,Baltimore Central,Primary Care,24,24,Completed
+APT00110,2026-05-19,Towson North,Primary Care,12,18,Completed
+APT00111,2026-02-23,Towson North,Primary Care,17,,No Show
+APT00112,2026-03-10,Columbia West,Primary Care,11,15,Completed
+APT00113,2026-03-05,Columbia West,Orthopedics,41,15,Completed
+APT00114,2026-06-08,Towson North,Primary Care,8,11,Completed
+APT00115,2026-03-25,Towson North,Primary Care,8,15,Completed
+APT00116,2026-03-27,Baltimore Central,Cardiology,29,18,Completed
+APT00117,2026-04-06,Baltimore Central,Orthopedics,40,,No Show
+APT00118,2026-06-02,Columbia West,Cardiology,29,,No Show
+APT00119,2026-01-20,Columbia West,Endocrinology,34,,No Show
+APT00120,2026-06-17,Baltimore Central,Primary Care,10,9,Completed
+APT00121,2026-04-20,Towson North,Cardiology,34,1,Completed
+APT00122,2026-02-09,Towson North,Primary Care,21,18,Completed
+APT00123,2026-04-08,Baltimore Central,Primary Care,5,,No Show
+APT00124,2026-04-13,Towson North,Primary Care,15,,No Show
+APT00125,2026-01-06,Columbia West,Primary Care,17,18,Completed
+APT00126,2026-04-28,Baltimore Central,Primary Care,22,5,Completed
+APT00127,2026-01-19,Baltimore Central,Orthopedics,16,,No Show
+APT00128,2026-02-26,Baltimore Central,Primary Care,0,28,Completed
+APT00129,2026-04-06,Towson North,Primary Care,1,0,Completed
+APT00130,2026-02-03,Baltimore Central,Primary Care,2,8,Completed
+APT00131,2026-03-02,Baltimore Central,Cardiology,41,28,Completed
+APT00132,2026-05-21,Towson North,Primary Care,20,19,Completed
+APT00133,2026-03-26,Towson North,Endocrinology,26,15,Completed
+APT00134,2026-01-12,Towson North,Endocrinology,26,6,Completed
+APT00135,2026-05-25,Baltimore Central,Cardiology,9,31,Completed
+APT00136,2026-02-03,Baltimore Central,Primary Care,19,10,Completed
+APT00137,2026-05-06,Baltimore Central,Cardiology,35,24,Completed
+APT00138,2026-02-23,Columbia West,Endocrinology,30,,No Show
+APT00139,2026-03-24,Baltimore Central,Cardiology,16,28,Completed
+APT00140,2026-03-30,Columbia West,Primary Care,19,8,Completed
+APT00141,2026-01-12,Baltimore Central,Cardiology,10,27,Completed
+APT00142,2026-04-27,Baltimore Central,Primary Care,4,27,Completed
+APT00143,2026-05-29,Towson North,Endocrinology,34,0,Completed
+APT00144,2026-05-12,Towson North,Primary Care,0,11,Completed
+APT00145,2026-03-03,Baltimore Central,Primary Care,14,13,Completed
+APT00146,2026-02-03,Towson North,Orthopedics,15,13,Completed
+APT00147,2026-04-02,Baltimore Central,Endocrinology,21,,No Show
+APT00148,2026-03-23,Baltimore Central,Orthopedics,25,31,Completed
+APT00149,2026-03-16,Baltimore Central,Cardiology,31,16,Completed
+APT00150,2026-05-05,Towson North,Orthopedics,24,,No Show
+APT00151,2026-05-20,Baltimore Central,Orthopedics,26,24,Completed
+APT00152,2026-04-20,Towson North,Primary Care,13,11,Completed
+APT00153,2026-04-07,Columbia West,Primary Care,0,7,Completed
+APT00154,2026-01-27,Baltimore Central,Primary Care,0,23,Completed
+APT00155,2026-01-06,Baltimore Central,Orthopedics,12,14,Completed
+APT00156,2026-01-21,Baltimore Central,Orthopedics,14,,No Show
+APT00157,2026-04-15,Columbia West,Primary Care,21,15,Completed
+APT00158,2026-04-20,Towson North,Cardiology,14,,No Show
+APT00159,2026-05-27,Towson North,Primary Care,21,0,Completed
+APT00160,2026-03-30,Columbia West,Orthopedics,29,17,Completed
+APT00161,2026-02-23,Columbia West,Orthopedics,46,,No Show
+APT00162,2026-04-28,Columbia West,Cardiology,9,6,Completed
+APT00163,2026-01-29,Baltimore Central,Cardiology,24,20,Completed
+APT00164,2026-03-05,Columbia West,Primary Care,7,9,Completed
+APT00165,2026-01-20,Towson North,Primary Care,14,11,Completed
+APT00166,2026-05-22,Towson North,Orthopedics,27,6,Completed
+APT00167,2026-06-24,Towson North,Primary Care,16,,No Show
+APT00168,2026-04-27,Baltimore Central,Primary Care,22,18,Completed
+APT00169,2026-05-01,Baltimore Central,Primary Care,18,21,Completed
+APT00170,2026-03-16,Towson North,Primary Care,22,15,Completed
+APT00171,2026-01-14,Baltimore Central,Orthopedics,16,19,Completed
+APT00172,2026-06-19,Baltimore Central,Orthopedics,26,27,Completed
+APT00173,2026-06-11,Baltimore Central,Primary Care,30,,No Show
+APT00174,2026-02-09,Towson North,Primary Care,23,10,Completed
+APT00175,2026-05-11,Towson North,Primary Care,17,,No Show
+APT00176,2026-03-18,Baltimore Central,Orthopedics,17,26,Completed
+APT00177,2026-06-29,Baltimore Central,Cardiology,13,17,Completed
+APT00178,2026-05-21,Baltimore Central,Cardiology,24,20,Completed
+APT00179,2026-04-02,Baltimore Central,Primary Care,21,40,Completed
+APT00180,2026-03-09,Columbia West,Orthopedics,25,2,Completed
+APT00181,2026-05-20,Baltimore Central,Primary Care,11,,No Show
+APT00182,2026-06-02,Baltimore Central,Primary Care,21,,No Show
+APT00183,2026-04-20,Baltimore Central,Primary Care,18,21,Completed
+APT00184,2026-01-16,Columbia West,Primary Care,30,,No Show
+APT00185,2026-02-24,Towson North,Cardiology,18,12,Completed
+APT00186,2026-05-18,Baltimore Central,Cardiology,29,12,Completed
+APT00187,2026-04-24,Columbia West,Primary Care,17,15,Completed
+APT00188,2026-02-17,Towson North,Endocrinology,34,2,Completed
+APT00189,2026-06-26,Baltimore Central,Cardiology,11,21,Completed
+APT00190,2026-05-06,Towson North,Orthopedics,29,19,Completed
+APT00191,2026-05-29,Towson North,Orthopedics,23,,No Show
+APT00192,2026-05-04,Columbia West,Orthopedics,27,7,Completed
+APT00193,2026-01-09,Baltimore Central,Primary Care,13,16,Completed
+APT00194,2026-03-25,Baltimore Central,Cardiology,29,22,Completed
+APT00195,2026-02-18,Towson North,Primary Care,22,19,Completed
+APT00196,2026-04-20,Baltimore Central,Orthopedics,17,,No Show
+APT00197,2026-06-10,Baltimore Central,Orthopedics,21,23,Completed
+APT00198,2026-01-29,Baltimore Central,Primary Care,7,15,Completed
+APT00199,2026-01-05,Baltimore Central,Cardiology,23,14,Completed
+APT00200,2026-02-12,Towson North,Primary Care,7,23,Completed
+APT00201,2026-04-02,Towson North,Primary Care,16,7,Completed
+APT00202,2026-06-29,Towson North,Primary Care,12,18,Completed
+APT00203,2026-05-12,Columbia West,Endocrinology,24,,No Show
+APT00204,2026-01-30,Baltimore Central,Primary Care,14,11,Completed
+APT00205,2026-05-01,Baltimore Central,Primary Care,34,11,Completed
+APT00206,2026-06-05,Baltimore Central,Orthopedics,10,31,Completed
+APT00207,2026-05-20,Towson North,Cardiology,39,9,Completed
+APT00208,2026-05-21,Columbia West,Primary Care,22,0,Completed
+APT00209,2026-04-10,Baltimore Central,Cardiology,38,25,Completed
+APT00210,2026-02-05,Baltimore Central,Primary Care,7,15,Completed
+APT00211,2026-04-29,Towson North,Primary Care,11,7,Completed
+APT00212,2026-05-18,Towson North,Primary Care,16,0,Completed
+APT00213,2026-05-29,Baltimore Central,Primary Care,12,,No Show
+APT00214,2026-02-09,Columbia West,Cardiology,17,16,Completed
+APT00215,2026-01-12,Columbia West,Orthopedics,21,12,Completed
+APT00216,2026-05-21,Towson North,Cardiology,40,22,Completed
+APT00217,2026-05-07,Baltimore Central,Cardiology,17,37,Completed
+APT00218,2026-02-04,Baltimore Central,Primary Care,16,,No Show
+APT00219,2026-01-16,Columbia West,Primary Care,3,5,Completed
+APT00220,2026-03-19,Columbia West,Primary Care,17,24,Completed
+APT00221,2026-05-14,Baltimore Central,Primary Care,3,16,Completed
+APT00222,2026-04-15,Baltimore Central,Orthopedics,24,14,Completed
+APT00223,2026-03-09,Towson North,Primary Care,13,,No Show
+APT00224,2026-01-30,Columbia West,Orthopedics,34,,No Show
+APT00225,2026-06-19,Towson North,Orthopedics,3,13,Completed
+APT00226,2026-03-25,Towson North,Primary Care,23,9,Completed
+APT00227,2026-01-23,Baltimore Central,Primary Care,24,19,Completed
+APT00228,2026-01-30,Baltimore Central,Primary Care,24,17,Completed
+APT00229,2026-06-12,Baltimore Central,Primary Care,23,,No Show
+APT00230,2026-02-02,Towson North,Orthopedics,10,16,Completed
+APT00231,2026-03-05,Baltimore Central,Cardiology,30,17,Completed
+APT00232,2026-05-14,Columbia West,Cardiology,23,15,Completed
+APT00233,2026-06-23,Columbia West,Primary Care,1,10,Completed
+APT00234,2026-03-27,Towson North,Endocrinology,27,17,Completed
+APT00235,2026-01-19,Baltimore Central,Primary Care,3,18,Completed
+APT00236,2026-04-09,Columbia West,Primary Care,24,3,Completed
+APT00237,2026-05-21,Baltimore Central,Primary Care,10,12,Completed
+APT00238,2026-05-01,Baltimore Central,Cardiology,23,13,Completed
+APT00239,2026-02-03,Baltimore Central,Cardiology,21,,No Show
+APT00240,2026-04-22,Columbia West,Cardiology,28,12,Completed
+APT00241,2026-04-20,Baltimore Central,Primary Care,15,,No Show
+APT00242,2026-06-08,Baltimore Central,Endocrinology,19,,No Show
+APT00243,2026-06-09,Towson North,Cardiology,26,14,Completed
+APT00244,2026-04-06,Towson North,Primary Care,17,18,Completed
+APT00245,2026-04-13,Columbia West,Endocrinology,28,16,Completed
+APT00246,2026-04-01,Columbia West,Primary Care,34,,No Show
+APT00247,2026-04-06,Columbia West,Cardiology,16,,No Show
+APT00248,2026-01-12,Towson North,Cardiology,23,20,Completed
+APT00249,2026-05-21,Columbia West,Cardiology,29,12,Completed
+APT00250,2026-06-01,Towson North,Endocrinology,43,10,Completed
+APT00251,2026-06-15,Towson North,Orthopedics,26,21,Completed
+APT00252,2026-01-05,Baltimore Central,Cardiology,13,,No Show
+APT00253,2026-01-22,Baltimore Central,Primary Care,21,43,Completed
+APT00254,2026-03-30,Baltimore Central,Primary Care,16,15,Completed
+APT00255,2026-01-26,Towson North,Cardiology,14,17,Completed
+APT00256,2026-03-03,Towson North,Cardiology,21,,No Show
+APT00257,2026-01-26,Baltimore Central,Cardiology,16,19,Completed
+APT00258,2026-04-13,Baltimore Central,Endocrinology,18,,No Show
+APT00259,2026-01-19,Columbia West,Primary Care,19,,No Show
+APT00260,2026-04-29,Towson North,Primary Care,9,4,Completed
+APT00261,2026-04-27,Columbia West,Endocrinology,27,,No Show
+APT00262,2026-05-06,Columbia West,Endocrinology,20,10,Completed
+APT00263,2026-02-23,Baltimore Central,Primary Care,21,,No Show
+APT00264,2026-05-29,Towson North,Primary Care,2,12,Completed
+APT00265,2026-06-10,Baltimore Central,Endocrinology,24,12,Completed
+APT00266,2026-04-23,Towson North,Primary Care,21,21,Completed
+APT00267,2026-02-24,Baltimore Central,Primary Care,0,6,Completed
+APT00268,2026-06-03,Baltimore Central,Primary Care,0,15,Completed
+APT00269,2026-05-11,Baltimore Central,Orthopedics,15,,No Show
+APT00270,2026-01-22,Towson North,Cardiology,34,16,Completed
+APT00271,2026-05-25,Columbia West,Cardiology,14,29,Completed
+APT00272,2026-01-05,Baltimore Central,Endocrinology,8,22,Completed
+APT00273,2026-02-04,Baltimore Central,Primary Care,15,10,Completed
+APT00274,2026-01-30,Baltimore Central,Primary Care,16,22,Completed
+APT00275,2026-06-15,Baltimore Central,Primary Care,9,4,Completed
+APT00276,2026-02-17,Columbia West,Primary Care,13,21,Completed
+APT00277,2026-06-12,Columbia West,Primary Care,22,,No Show
+APT00278,2026-04-10,Baltimore Central,Orthopedics,16,27,Completed
+APT00279,2026-01-26,Baltimore Central,Primary Care,20,26,Completed
+APT00280,2026-01-19,Baltimore Central,Primary Care,16,,No Show
+APT00281,2026-04-15,Baltimore Central,Primary Care,7,12,Completed
+APT00282,2026-03-30,Columbia West,Primary Care,9,14,Completed
+APT00283,2026-04-27,Baltimore Central,Orthopedics,11,11,Completed
+APT00284,2026-01-07,Columbia West,Orthopedics,17,7,Completed
+APT00285,2026-06-11,Baltimore Central,Primary Care,9,16,Completed
+APT00286,2026-06-10,Baltimore Central,Orthopedics,33,28,Completed
+APT00287,2026-04-13,Baltimore Central,Primary Care,9,24,Completed
+APT00288,2026-04-13,Baltimore Central,Orthopedics,19,23,Completed
+APT00289,2026-01-19,Columbia West,Orthopedics,26,8,Completed
+APT00290,2026-05-18,Towson North,Cardiology,11,,No Show
+APT00291,2026-06-22,Baltimore Central,Cardiology,39,,No Show
+APT00292,2026-05-18,Columbia West,Primary Care,12,12,Completed
+APT00293,2026-03-20,Towson North,Cardiology,8,11,Completed
+APT00294,2026-03-02,Baltimore Central,Primary Care,1,19,Completed
+APT00295,2026-01-26,Towson North,Cardiology,39,,No Show
+APT00296,2026-03-23,Baltimore Central,Primary Care,19,24,Completed
+APT00297,2026-05-05,Baltimore Central,Cardiology,18,,No Show
+APT00298,2026-06-03,Baltimore Central,Primary Care,6,16,Completed
+APT00299,2026-05-12,Columbia West,Primary Care,23,,No Show
+APT00300,2026-02-12,Baltimore Central,Endocrinology,29,,No Show
+APT00301,2026-06-15,Columbia West,Primary Care,25,,No Show
+APT00302,2026-05-01,Columbia West,Primary Care,37,11,Completed
+APT00303,2026-05-25,Baltimore Central,Primary Care,5,3,Completed
+APT00304,2026-05-29,Towson North,Endocrinology,4,10,Completed
+APT00305,2026-02-02,Towson North,Orthopedics,34,,No Show
+APT00306,2026-06-01,Towson North,Primary Care,21,,No Show
+APT00307,2026-03-02,Columbia West,Endocrinology,17,9,Completed
+APT00308,2026-03-26,Baltimore Central,Primary Care,23,21,Completed
+APT00309,2026-03-30,Baltimore Central,Cardiology,24,,No Show
+APT00310,2026-02-09,Columbia West,Primary Care,27,8,Completed
+APT00311,2026-04-16,Towson North,Orthopedics,18,0,Completed
+APT00312,2026-03-19,Baltimore Central,Endocrinology,14,29,Completed
+APT00313,2026-05-25,Columbia West,Primary Care,29,13,Completed
+APT00314,2026-02-19,Columbia West,Primary Care,20,28,Completed
+APT00315,2026-05-11,Baltimore Central,Primary Care,9,19,Completed
+APT00316,2026-04-27,Baltimore Central,Orthopedics,17,,No Show
+APT00317,2026-01-28,Baltimore Central,Primary Care,9,21,Completed
+APT00318,2026-05-04,Towson North,Primary Care,27,18,Completed
+APT00319,2026-06-24,Towson North,Primary Care,4,22,Completed
+APT00320,2026-01-08,Towson North,Orthopedics,31,10,Completed
+APT00321,2026-06-01,Columbia West,Orthopedics,13,3,Completed
+APT00322,2026-01-26,Baltimore Central,Primary Care,27,27,Completed
+APT00323,2026-05-07,Towson North,Cardiology,15,2,Completed
+APT00324,2026-04-28,Towson North,Primary Care,28,16,Completed
+APT00325,2026-03-02,Towson North,Primary Care,22,14,Completed
+APT00326,2026-04-21,Baltimore Central,Primary Care,19,23,Completed
+APT00327,2026-06-11,Baltimore Central,Primary Care,16,27,Completed
+APT00328,2026-02-09,Baltimore Central,Primary Care,14,25,Completed
+APT00329,2026-03-16,Columbia West,Endocrinology,31,16,Completed
+APT00330,2026-01-22,Columbia West,Endocrinology,32,21,Completed
+APT00331,2026-06-08,Baltimore Central,Cardiology,31,7,Completed
+APT00332,2026-01-13,Towson North,Cardiology,34,,No Show
+APT00333,2026-03-30,Columbia West,Cardiology,25,10,Completed
+APT00334,2026-05-04,Baltimore Central,Orthopedics,39,,No Show
+APT00335,2026-03-24,Baltimore Central,Cardiology,16,11,Completed
+APT00336,2026-03-20,Baltimore Central,Cardiology,16,19,Completed
+APT00337,2026-02-02,Towson North,Primary Care,21,,No Show
+APT00338,2026-02-26,Baltimore Central,Cardiology,8,21,Completed
+APT00339,2026-02-16,Baltimore Central,Primary Care,19,,No Show
+APT00340,2026-04-15,Baltimore Central,Primary Care,5,41,Completed
+APT00341,2026-02-10,Columbia West,Orthopedics,18,0,Completed
+APT00342,2026-02-16,Columbia West,Primary Care,11,12,Completed
+APT00343,2026-02-06,Towson North,Primary Care,6,6,Completed
+APT00344,2026-03-02,Towson North,Primary Care,25,16,Completed
+APT00345,2026-06-08,Towson North,Primary Care,37,0,Completed
+APT00346,2026-04-29,Baltimore Central,Cardiology,17,,No Show
+APT00347,2026-05-11,Baltimore Central,Primary Care,25,21,Completed
+APT00348,2026-02-09,Towson North,Primary Care,25,5,Completed
+APT00349,2026-06-01,Towson North,Primary Care,28,5,Completed
+APT00350,2026-01-22,Columbia West,Endocrinology,15,6,Completed
+APT00351,2026-02-02,Columbia West,Primary Care,29,27,Completed
+APT00352,2026-01-07,Columbia West,Cardiology,11,,No Show
+APT00353,2026-02-26,Columbia West,Orthopedics,24,42,Completed
+APT00354,2026-06-01,Towson North,Primary Care,19,,No Show
+APT00355,2026-01-27,Towson North,Primary Care,6,0,Completed
+APT00356,2026-04-22,Towson North,Cardiology,25,5,Completed
+APT00357,2026-02-18,Towson North,Primary Care,28,6,Completed
+APT00358,2026-05-18,Columbia West,Primary Care,30,,No Show
+APT00359,2026-06-10,Baltimore Central,Cardiology,29,25,Completed
+APT00360,2026-02-09,Baltimore Central,Primary Care,16,25,Completed
+APT00361,2026-03-31,Towson North,Orthopedics,24,15,Completed
+APT00362,2026-02-26,Baltimore Central,Orthopedics,21,23,Completed
+APT00363,2026-02-24,Baltimore Central,Primary Care,20,29,Completed
+APT00364,2026-03-16,Towson North,Endocrinology,27,10,Completed
+APT00365,2026-02-09,Towson North,Primary Care,0,0,Completed
+APT00366,2026-03-16,Towson North,Primary Care,21,8,Completed
+APT00367,2026-06-02,Columbia West,Primary Care,25,2,Completed
+APT00368,2026-03-20,Towson North,Cardiology,34,,No Show
+APT00369,2026-03-23,Baltimore Central,Primary Care,11,15,Completed
+APT00370,2026-04-27,Towson North,Primary Care,1,14,Completed
+APT00371,2026-05-18,Baltimore Central,Orthopedics,27,,No Show
+APT00372,2026-03-24,Baltimore Central,Orthopedics,44,,No Show
+APT00373,2026-06-03,Baltimore Central,Primary Care,1,11,Completed
+APT00374,2026-04-14,Towson North,Endocrinology,10,1,Completed
+APT00375,2026-01-07,Towson North,Cardiology,14,13,Completed
+APT00376,2026-01-19,Baltimore Central,Cardiology,0,19,Completed
+APT00377,2026-02-16,Baltimore Central,Orthopedics,29,34,Completed
+APT00378,2026-01-28,Columbia West,Primary Care,17,9,Completed
+APT00379,2026-02-20,Baltimore Central,Primary Care,7,,No Show
+APT00380,2026-03-26,Columbia West,Primary Care,9,2,Completed
+APT00381,2026-03-25,Baltimore Central,Cardiology,19,31,Completed
+APT00382,2026-03-11,Columbia West,Orthopedics,30,20,Completed
+APT00383,2026-04-13,Towson North,Orthopedics,24,,No Show
+APT00384,2026-02-17,Towson North,Orthopedics,32,11,Completed
+APT00385,2026-01-12,Towson North,Primary Care,33,7,Completed
+APT00386,2026-01-29,Towson North,Cardiology,20,3,Completed
+APT00387,2026-06-24,Baltimore Central,Endocrinology,27,12,Completed
+APT00388,2026-01-26,Baltimore Central,Cardiology,17,22,Completed
+APT00389,2026-06-16,Columbia West,Primary Care,13,8,Completed
+APT00390,2026-06-29,Columbia West,Primary Care,18,2,Completed
+APT00391,2026-02-23,Columbia West,Primary Care,4,14,Completed
+APT00392,2026-02-23,Baltimore Central,Primary Care,15,20,Completed
+APT00393,2026-03-02,Columbia West,Endocrinology,26,20,Completed
+APT00394,2026-02-16,Baltimore Central,Orthopedics,33,17,Completed
+APT00395,2026-05-15,Baltimore Central,Primary Care,15,9,Completed
+APT00396,2026-03-04,Baltimore Central,Primary Care,12,,No Show
+APT00397,2026-02-02,Columbia West,Orthopedics,25,,No Show
+APT00398,2026-01-26,Columbia West,Cardiology,27,22,Completed
+APT00399,2026-01-21,Baltimore Central,Primary Care,15,9,Completed
+APT00400,2026-05-28,Baltimore Central,Cardiology,26,9,Completed
+APT00401,2026-03-06,Columbia West,Orthopedics,20,0,Completed
+APT00402,2026-01-12,Columbia West,Primary Care,0,0,Completed
+APT00403,2026-05-19,Baltimore Central,Primary Care,15,19,Completed
+APT00404,2026-01-07,Towson North,Endocrinology,12,9,Completed
+APT00405,2026-04-24,Columbia West,Primary Care,11,20,Completed
+APT00406,2026-04-14,Baltimore Central,Primary Care,29,,No Show
+APT00407,2026-02-20,Baltimore Central,Orthopedics,13,22,Completed
+APT00408,2026-01-12,Towson North,Primary Care,0,18,Completed
+APT00409,2026-04-09,Columbia West,Primary Care,9,12,Completed
+APT00410,2026-05-08,Columbia West,Cardiology,30,,No Show
+APT00411,2026-04-13,Towson North,Primary Care,19,15,Completed
+APT00412,2026-01-07,Baltimore Central,Primary Care,10,23,Completed
+APT00413,2026-05-20,Towson North,Cardiology,9,0,Completed
+APT00414,2026-06-05,Baltimore Central,Endocrinology,25,31,Completed
+APT00415,2026-01-14,Towson North,Primary Care,2,12,Completed
+APT00416,2026-02-24,Columbia West,Orthopedics,30,7,Completed
+APT00417,2026-03-16,Towson North,Endocrinology,16,,No Show
+APT00418,2026-06-09,Baltimore Central,Cardiology,25,23,Completed
+APT00419,2026-05-21,Baltimore Central,Orthopedics,15,18,Completed
+APT00420,2026-03-30,Baltimore Central,Primary Care,6,18,Completed
+APT00421,2026-01-09,Baltimore Central,Endocrinology,34,19,Completed
+APT00422,2026-05-18,Baltimore Central,Cardiology,26,,No Show
+APT00423,2026-06-15,Towson North,Primary Care,7,11,Completed
+APT00424,2026-06-03,Baltimore Central,Primary Care,17,20,Completed
+APT00425,2026-06-04,Towson North,Primary Care,15,21,Completed
+APT00426,2026-03-26,Towson North,Primary Care,19,,No Show
+APT00427,2026-04-06,Towson North,Orthopedics,21,9,Completed
+APT00428,2026-03-27,Columbia West,Primary Care,8,16,Completed
+APT00429,2026-04-20,Baltimore Central,Primary Care,11,,No Show
+APT00430,2026-03-18,Baltimore Central,Primary Care,19,15,Completed
+APT00431,2026-03-26,Columbia West,Primary Care,15,,No Show
+APT00432,2026-04-13,Columbia West,Primary Care,18,,No Show
+APT00433,2026-06-11,Baltimore Central,Primary Care,7,14,Completed
+APT00434,2026-01-12,Baltimore Central,Cardiology,23,25,Completed
+APT00435,2026-01-26,Towson North,Cardiology,13,15,Completed
+APT00436,2026-04-27,Towson North,Primary Care,20,14,Completed
+APT00437,2026-06-01,Columbia West,Primary Care,11,3,Completed
+APT00438,2026-01-19,Baltimore Central,Endocrinology,39,,No Show
+APT00439,2026-02-10,Towson North,Cardiology,25,16,Completed
+APT00440,2026-05-25,Baltimore Central,Cardiology,35,,No Show
+APT00441,2026-01-26,Columbia West,Primary Care,22,,No Show
+APT00442,2026-04-27,Baltimore Central,Primary Care,29,12,Completed
+APT00443,2026-04-08,Baltimore Central,Orthopedics,34,11,Completed
+APT00444,2026-02-03,Towson North,Cardiology,15,5,Completed
+APT00445,2026-03-11,Baltimore Central,Primary Care,34,18,Completed
+APT00446,2026-04-08,Baltimore Central,Primary Care,9,23,Completed
+APT00447,2026-06-09,Baltimore Central,Primary Care,0,15,Completed
+APT00448,2026-06-26,Towson North,Endocrinology,14,15,Completed
+APT00449,2026-01-29,Towson North,Primary Care,25,8,Completed
+APT00450,2026-06-23,Baltimore Central,Cardiology,37,,No Show
+APT00451,2026-06-29,Columbia West,Primary Care,13,18,Completed
+APT00452,2026-02-20,Columbia West,Endocrinology,30,9,Completed
+APT00453,2026-03-16,Towson North,Cardiology,36,11,Completed
+APT00454,2026-03-31,Towson North,Orthopedics,18,,No Show
+APT00455,2026-02-23,Towson North,Cardiology,13,,No Show
+APT00456,2026-02-09,Baltimore Central,Cardiology,20,30,Completed
+APT00457,2026-05-01,Baltimore Central,Primary Care,19,9,Completed
+APT00458,2026-06-29,Towson North,Primary Care,9,0,Completed
+APT00459,2026-05-19,Baltimore Central,Primary Care,23,11,Completed
+APT00460,2026-05-18,Towson North,Endocrinology,28,13,Completed
+APT00461,2026-03-10,Baltimore Central,Primary Care,34,15,Completed
+APT00462,2026-04-08,Baltimore Central,Primary Care,5,31,Completed
+APT00463,2026-03-23,Towson North,Primary Care,11,,No Show
+APT00464,2026-04-20,Towson North,Primary Care,13,,No Show
+APT00465,2026-02-12,Columbia West,Cardiology,48,6,Completed
+APT00466,2026-05-14,Towson North,Primary Care,19,5,Completed
+APT00467,2026-06-12,Baltimore Central,Orthopedics,25,14,Completed
+APT00468,2026-02-03,Columbia West,Cardiology,25,20,Completed
+APT00469,2026-02-12,Columbia West,Primary Care,18,12,Completed
+APT00470,2026-06-08,Columbia West,Orthopedics,44,,No Show
+APT00471,2026-03-30,Baltimore Central,Primary Care,17,11,Completed
+APT00472,2026-03-02,Baltimore Central,Cardiology,25,11,Completed
+APT00473,2026-04-01,Baltimore Central,Orthopedics,22,,No Show
+APT00474,2026-05-15,Columbia West,Primary Care,5,6,Completed
+APT00475,2026-06-18,Baltimore Central,Primary Care,0,29,Completed
+APT00476,2026-04-01,Columbia West,Orthopedics,25,10,Completed
+APT00477,2026-01-26,Towson North,Orthopedics,4,11,Completed
+APT00478,2026-02-03,Towson North,Primary Care,20,30,Completed
+APT00479,2026-02-09,Columbia West,Primary Care,20,19,Completed
+APT00480,2026-04-07,Baltimore Central,Cardiology,22,,No Show
+APT00481,2026-05-07,Columbia West,Endocrinology,9,10,Completed
+APT00482,2026-01-23,Columbia West,Primary Care,12,23,Completed
+APT00483,2026-06-15,Baltimore Central,Cardiology,19,20,Completed
+APT00484,2026-02-02,Baltimore Central,Primary Care,13,17,Completed
+APT00485,2026-05-25,Towson North,Primary Care,10,8,Completed
+APT00486,2026-05-29,Columbia West,Orthopedics,23,1,Completed
+APT00487,2026-02-26,Baltimore Central,Primary Care,3,11,Completed
+APT00488,2026-02-16,Towson North,Primary Care,37,11,Completed
+APT00489,2026-06-15,Towson North,Cardiology,23,12,Completed
+APT00490,2026-04-29,Towson North,Orthopedics,9,13,Completed
+APT00491,2026-03-31,Baltimore Central,Primary Care,8,2,Completed
+APT00492,2026-04-27,Baltimore Central,Primary Care,21,,No Show
+APT00493,2026-06-29,Baltimore Central,Cardiology,15,26,Completed
+APT00494,2026-04-16,Baltimore Central,Orthopedics,22,23,Completed
+APT00495,2026-02-02,Baltimore Central,Primary Care,8,8,Completed
+APT00496,2026-03-09,Columbia West,Primary Care,13,,No Show
+APT00497,2026-06-22,Baltimore Central,Cardiology,10,3,Completed
+APT00498,2026-02-16,Baltimore Central,Orthopedics,13,19,Completed
+APT00499,2026-03-23,Baltimore Central,Primary Care,25,19,Completed
+APT00500,2026-06-26,Baltimore Central,Primary Care,15,26,Completed
+APT00501,2026-01-16,Columbia West,Orthopedics,25,20,Completed
+APT00502,2026-02-10,Towson North,Cardiology,18,15,Completed
+APT00503,2026-04-01,Towson North,Orthopedics,16,32,Completed
+APT00504,2026-04-06,Baltimore Central,Primary Care,1,18,Completed
+APT00505,2026-03-19,Columbia West,Primary Care,11,11,Completed
+APT00506,2026-01-12,Baltimore Central,Orthopedics,15,19,Completed
+APT00507,2026-05-14,Baltimore Central,Primary Care,8,11,Completed
+APT00508,2026-03-23,Baltimore Central,Primary Care,6,15,Completed
+APT00509,2026-03-23,Towson North,Cardiology,35,19,Completed
+APT00510,2026-06-03,Baltimore Central,Cardiology,15,14,Completed
+APT00511,2026-02-16,Towson North,Primary Care,9,4,Completed
+APT00512,2026-06-01,Baltimore Central,Primary Care,7,14,Completed
+APT00513,2026-06-16,Towson North,Orthopedics,22,16,Completed
+APT00514,2026-05-18,Columbia West,Orthopedics,33,23,Completed
+APT00515,2026-06-24,Baltimore Central,Cardiology,26,8,Completed
+APT00516,2026-05-29,Columbia West,Primary Care,22,11,Completed
+APT00517,2026-03-31,Towson North,Primary Care,30,14,Completed
+APT00518,2026-02-24,Towson North,Orthopedics,26,,No Show
+APT00519,2026-03-16,Baltimore Central,Primary Care,16,,No Show
+APT00520,2026-02-26,Baltimore Central,Primary Care,0,20,Completed
+APT00521,2026-04-02,Columbia West,Primary Care,21,25,Completed
+APT00522,2026-02-23,Baltimore Central,Primary Care,19,24,Completed
+APT00523,2026-05-13,Columbia West,Primary Care,9,4,Completed
+APT00524,2026-02-23,Baltimore Central,Primary Care,12,25,Completed
+APT00525,2026-05-22,Baltimore Central,Orthopedics,35,17,Completed
+APT00526,2026-03-09,Baltimore Central,Primary Care,7,12,Completed
+APT00527,2026-05-22,Baltimore Central,Cardiology,23,0,Completed
+APT00528,2026-01-12,Baltimore Central,Cardiology,18,1,Completed
+APT00529,2026-04-20,Baltimore Central,Primary Care,23,,No Show
+APT00530,2026-02-18,Towson North,Orthopedics,29,3,Completed
+APT00531,2026-02-20,Towson North,Primary Care,12,0,Completed
+APT00532,2026-04-30,Columbia West,Primary Care,19,8,Completed
+APT00533,2026-01-26,Baltimore Central,Endocrinology,29,22,Completed
+APT00534,2026-04-28,Columbia West,Primary Care,3,25,Completed
+APT00535,2026-02-09,Towson North,Primary Care,9,4,Completed
+APT00536,2026-05-05,Baltimore Central,Endocrinology,19,14,Completed
+APT00537,2026-05-11,Towson North,Cardiology,8,19,Completed
+APT00538,2026-03-16,Baltimore Central,Primary Care,15,,No Show
+APT00539,2026-02-23,Columbia West,Primary Care,15,8,Completed
+APT00540,2026-06-10,Columbia West,Cardiology,14,11,Completed
+APT00541,2026-01-19,Baltimore Central,Endocrinology,37,,No Show
+APT00542,2026-02-02,Baltimore Central,Orthopedics,20,5,Completed
+APT00543,2026-03-30,Columbia West,Primary Care,6,8,Completed
+APT00544,2026-05-04,Baltimore Central,Orthopedics,38,23,Completed
+APT00545,2026-04-20,Baltimore Central,Primary Care,15,31,Completed
+APT00546,2026-02-03,Baltimore Central,Orthopedics,22,13,Completed
+APT00547,2026-03-16,Baltimore Central,Primary Care,27,19,Completed
+APT00548,2026-03-26,Columbia West,Endocrinology,34,,No Show
+APT00549,2026-02-02,Towson North,Primary Care,15,22,Completed
+APT00550,2026-05-18,Towson North,Primary Care,11,3,Completed
+APT00551,2026-06-22,Baltimore Central,Primary Care,13,22,Completed
+APT00552,2026-06-08,Baltimore Central,Cardiology,27,16,Completed
+APT00553,2026-04-06,Columbia West,Primary Care,13,,No Show
+APT00554,2026-04-14,Baltimore Central,Primary Care,0,20,Completed
+APT00555,2026-02-03,Towson North,Endocrinology,12,8,Completed
+APT00556,2026-05-25,Towson North,Primary Care,16,15,Completed
+APT00557,2026-06-18,Baltimore Central,Endocrinology,27,15,Completed
+APT00558,2026-03-02,Baltimore Central,Primary Care,18,18,Completed
+APT00559,2026-01-27,Towson North,Cardiology,40,,No Show
+APT00560,2026-04-22,Towson North,Orthopedics,31,26,Completed
+APT00561,2026-01-20,Columbia West,Cardiology,21,12,Completed
+APT00562,2026-01-16,Baltimore Central,Primary Care,15,10,Completed
+APT00563,2026-06-08,Towson North,Primary Care,9,19,Completed
+APT00564,2026-04-17,Towson North,Endocrinology,16,18,Completed
+APT00565,2026-03-09,Columbia West,Primary Care,22,5,Completed
+APT00566,2026-02-04,Baltimore Central,Primary Care,19,23,Completed
+APT00567,2026-02-23,Baltimore Central,Primary Care,5,24,Completed
+APT00568,2026-05-06,Towson North,Cardiology,14,10,Completed
+APT00569,2026-04-29,Baltimore Central,Orthopedics,23,19,Completed
+APT00570,2026-05-05,Baltimore Central,Primary Care,14,13,Completed
+APT00571,2026-01-09,Columbia West,Cardiology,22,7,Completed
+APT00572,2026-04-30,Towson North,Cardiology,26,,No Show
+APT00573,2026-01-09,Baltimore Central,Orthopedics,26,13,Completed
+APT00574,2026-05-12,Baltimore Central,Orthopedics,15,,No Show
+APT00575,2026-06-25,Baltimore Central,Primary Care,5,14,Completed
+APT00576,2026-04-30,Towson North,Endocrinology,25,15,Completed
+APT00577,2026-04-29,Columbia West,Cardiology,17,15,Completed
+APT00578,2026-06-26,Towson North,Cardiology,24,8,Completed
+APT00579,2026-04-17,Baltimore Central,Cardiology,30,22,Completed
+APT00580,2026-05-25,Towson North,Orthopedics,25,,No Show
+APT00581,2026-03-05,Baltimore Central,Cardiology,41,10,Completed
+APT00582,2026-03-27,Towson North,Endocrinology,11,12,Completed
+APT00583,2026-03-30,Towson North,Orthopedics,30,9,Completed
+APT00584,2026-04-21,Columbia West,Primary Care,4,19,Completed
+APT00585,2026-04-30,Baltimore Central,Primary Care,14,24,Completed
+APT00586,2026-05-05,Baltimore Central,Cardiology,18,0,Completed
+APT00587,2026-06-08,Towson North,Orthopedics,29,13,Completed
+APT00588,2026-06-25,Towson North,Primary Care,8,22,Completed
+APT00589,2026-02-23,Towson North,Primary Care,18,16,Completed
+APT00590,2026-05-18,Columbia West,Primary Care,9,15,Completed
+APT00591,2026-04-24,Columbia West,Primary Care,16,5,Completed
+APT00592,2026-01-08,Towson North,Endocrinology,29,24,Completed
+APT00593,2026-01-06,Baltimore Central,Primary Care,25,12,Completed
+APT00594,2026-02-06,Baltimore Central,Primary Care,15,,No Show
+APT00595,2026-03-19,Baltimore Central,Cardiology,9,25,Completed
+APT00596,2026-05-04,Columbia West,Primary Care,20,,No Show
+APT00597,2026-04-13,Baltimore Central,Primary Care,6,17,Completed
+APT00598,2026-05-11,Baltimore Central,Primary Care,21,13,Completed
+APT00599,2026-02-09,Towson North,Cardiology,33,,No Show
+APT00600,2026-02-04,Towson North,Cardiology,9,15,Completed
+APT00601,2026-04-20,Towson North,Cardiology,34,15,Completed
+APT00602,2026-05-01,Baltimore Central,Endocrinology,34,,No Show
+APT00603,2026-06-18,Towson North,Endocrinology,24,12,Completed
+APT00604,2026-01-08,Columbia West,Cardiology,37,20,Completed
+APT00605,2026-02-23,Towson North,Cardiology,18,1,Completed
+APT00606,2026-04-28,Baltimore Central,Orthopedics,20,,No Show
+APT00607,2026-04-20,Baltimore Central,Endocrinology,29,17,Completed
+APT00608,2026-06-01,Columbia West,Primary Care,6,17,Completed
+APT00609,2026-02-11,Columbia West,Primary Care,35,9,Completed
+APT00610,2026-03-16,Towson North,Cardiology,29,13,Completed
+APT00611,2026-03-16,Columbia West,Primary Care,21,0,Completed
+APT00612,2026-01-19,Columbia West,Primary Care,20,17,Completed
+APT00613,2026-02-18,Towson North,Primary Care,18,,No Show
+APT00614,2026-05-19,Columbia West,Orthopedics,27,,No Show
+APT00615,2026-03-23,Baltimore Central,Orthopedics,20,17,Completed
+APT00616,2026-02-11,Baltimore Central,Primary Care,8,20,Completed
+APT00617,2026-04-13,Towson North,Orthopedics,18,2,Completed
+APT00618,2026-05-04,Towson North,Orthopedics,21,24,Completed
+APT00619,2026-06-23,Towson North,Primary Care,21,28,Completed
+APT00620,2026-04-03,Towson North,Endocrinology,11,9,Completed
+APT00621,2026-06-01,Towson North,Orthopedics,22,0,Completed
+APT00622,2026-05-29,Baltimore Central,Endocrinology,33,,No Show
+APT00623,2026-04-23,Baltimore Central,Primary Care,33,,No Show
+APT00624,2026-01-30,Baltimore Central,Cardiology,29,12,Completed
+APT00625,2026-05-18,Towson North,Cardiology,12,6,Completed
+APT00626,2026-02-16,Columbia West,Endocrinology,21,10,Completed
+APT00627,2026-03-23,Baltimore Central,Primary Care,27,,No Show
+APT00628,2026-06-19,Baltimore Central,Orthopedics,22,21,Completed
+APT00629,2026-05-28,Baltimore Central,Primary Care,1,27,Completed
+APT00630,2026-03-16,Towson North,Cardiology,17,25,Completed
+APT00631,2026-03-23,Baltimore Central,Primary Care,6,7,Completed
+APT00632,2026-04-03,Baltimore Central,Primary Care,19,11,Completed
+APT00633,2026-01-07,Baltimore Central,Primary Care,14,,No Show
+APT00634,2026-01-13,Baltimore Central,Primary Care,18,12,Completed
+APT00635,2026-04-20,Baltimore Central,Cardiology,17,17,Completed
+APT00636,2026-06-08,Towson North,Endocrinology,15,26,Completed
+APT00637,2026-02-06,Towson North,Orthopedics,26,,No Show
+APT00638,2026-01-12,Baltimore Central,Endocrinology,16,20,Completed
+APT00639,2026-01-13,Baltimore Central,Primary Care,17,13,Completed
+APT00640,2026-06-22,Baltimore Central,Primary Care,5,19,Completed
+APT00641,2026-06-15,Towson North,Orthopedics,21,7,Completed
+APT00642,2026-02-04,Towson North,Primary Care,5,3,Completed
+APT00643,2026-02-10,Baltimore Central,Primary Care,27,,No Show
+APT00644,2026-04-08,Baltimore Central,Primary Care,0,10,Completed
+APT00645,2026-05-25,Baltimore Central,Endocrinology,38,,No Show
+APT00646,2026-05-18,Columbia West,Primary Care,25,,No Show
+APT00647,2026-05-11,Baltimore Central,Cardiology,34,12,Completed
+APT00648,2026-04-01,Columbia West,Cardiology,30,11,Completed
+APT00649,2026-04-14,Towson North,Orthopedics,22,7,Completed
+APT00650,2026-03-09,Columbia West,Primary Care,8,14,Completed
+APT00651,2026-04-06,Towson North,Primary Care,9,0,Completed
+APT00652,2026-06-01,Towson North,Cardiology,12,15,Completed
+APT00653,2026-06-16,Baltimore Central,Cardiology,37,13,Completed
+APT00654,2026-01-26,Columbia West,Primary Care,0,18,Completed
+APT00655,2026-01-19,Towson North,Cardiology,3,10,Completed
+APT00656,2026-06-22,Columbia West,Primary Care,29,15,Completed
+APT00657,2026-03-30,Towson North,Primary Care,0,17,Completed
+APT00658,2026-02-05,Baltimore Central,Orthopedics,19,26,Completed
+APT00659,2026-06-15,Towson North,Primary Care,12,7,Completed
+APT00660,2026-04-27,Baltimore Central,Endocrinology,29,10,Completed
+APT00661,2026-03-09,Columbia West,Primary Care,0,16,Completed
+APT00662,2026-01-08,Towson North,Primary Care,9,13,Completed
+APT00663,2026-02-09,Baltimore Central,Primary Care,15,25,Completed
+APT00664,2026-03-16,Baltimore Central,Endocrinology,21,16,Completed
+APT00665,2026-04-06,Baltimore Central,Endocrinology,35,11,Completed
+APT00666,2026-02-10,Columbia West,Orthopedics,6,6,Completed
+APT00667,2026-03-05,Towson North,Primary Care,4,3,Completed
+APT00668,2026-05-25,Baltimore Central,Primary Care,29,22,Completed
+APT00669,2026-05-18,Columbia West,Orthopedics,10,15,Completed
+APT00670,2026-01-14,Columbia West,Orthopedics,18,11,Completed
+APT00671,2026-06-22,Towson North,Cardiology,38,14,Completed
+APT00672,2026-04-06,Baltimore Central,Endocrinology,32,29,Completed
+APT00673,2026-02-26,Towson North,Endocrinology,28,13,Completed
+APT00674,2026-01-05,Towson North,Cardiology,19,,No Show
+APT00675,2026-04-10,Columbia West,Orthopedics,19,0,Completed
+APT00676,2026-04-10,Columbia West,Endocrinology,36,10,Completed
+APT00677,2026-02-18,Baltimore Central,Endocrinology,28,12,Completed
+APT00678,2026-02-06,Baltimore Central,Primary Care,3,10,Completed
+APT00679,2026-05-04,Baltimore Central,Orthopedics,35,28,Completed
+APT00680,2026-05-07,Baltimore Central,Cardiology,23,,No Show
+APT00681,2026-02-24,Towson North,Primary Care,24,25,Completed
+APT00682,2026-03-16,Baltimore Central,Primary Care,24,20,Completed
+APT00683,2026-02-26,Towson North,Cardiology,3,4,Completed
+APT00684,2026-02-02,Baltimore Central,Cardiology,20,19,Completed
+APT00685,2026-02-16,Baltimore Central,Primary Care,8,6,Completed
+APT00686,2026-04-17,Towson North,Cardiology,45,33,Completed
+APT00687,2026-03-12,Towson North,Primary Care,16,,No Show
+APT00688,2026-06-08,Columbia West,Orthopedics,22,13,Completed
+APT00689,2026-06-08,Columbia West,Primary Care,2,17,Completed
+APT00690,2026-01-13,Columbia West,Orthopedics,21,,No Show
+APT00691,2026-04-27,Baltimore Central,Primary Care,4,,No Show
+APT00692,2026-05-11,Columbia West,Primary Care,8,8,Completed
+APT00693,2026-04-07,Columbia West,Endocrinology,41,5,Completed
+APT00694,2026-05-18,Baltimore Central,Cardiology,30,16,Completed
+APT00695,2026-03-12,Baltimore Central,Primary Care,20,8,Completed
+APT00696,2026-02-20,Towson North,Primary Care,14,23,Completed
+APT00697,2026-05-28,Towson North,Primary Care,1,13,Completed
+APT00698,2026-06-01,Baltimore Central,Orthopedics,16,9,Completed
+APT00699,2026-02-09,Baltimore Central,Primary Care,25,17,Completed
+APT00700,2026-02-16,Columbia West,Primary Care,25,14,Completed
+APT00701,2026-01-12,Towson North,Primary Care,21,3,Completed
+APT00702,2026-03-02,Baltimore Central,Orthopedics,26,16,Completed
+APT00703,2026-02-09,Baltimore Central,Primary Care,22,,No Show
+APT00704,2026-02-05,Baltimore Central,Cardiology,32,23,Completed
+APT00705,2026-06-29,Towson North,Cardiology,20,15,Completed
+APT00706,2026-01-09,Columbia West,Primary Care,18,12,Completed
+APT00707,2026-03-16,Baltimore Central,Cardiology,25,,No Show
+APT00708,2026-03-20,Baltimore Central,Primary Care,16,16,Completed
+APT00709,2026-01-06,Baltimore Central,Endocrinology,21,,No Show
+APT00710,2026-04-08,Towson North,Primary Care,24,0,Completed
+APT00711,2026-02-25,Baltimore Central,Endocrinology,38,7,Completed
+APT00712,2026-04-28,Towson North,Endocrinology,23,,No Show
+APT00713,2026-01-07,Baltimore Central,Primary Care,14,21,Completed
+APT00714,2026-05-11,Columbia West,Endocrinology,15,30,Completed
+APT00715,2026-02-17,Columbia West,Endocrinology,27,5,Completed
+APT00716,2026-06-01,Baltimore Central,Cardiology,22,,No Show
+APT00717,2026-02-27,Baltimore Central,Orthopedics,20,28,Completed
+APT00718,2026-01-16,Columbia West,Primary Care,13,9,Completed
+APT00719,2026-05-20,Towson North,Orthopedics,11,10,Completed
+APT00720,2026-01-06,Columbia West,Endocrinology,21,8,Completed
+APT00721,2026-04-13,Towson North,Primary Care,16,7,Completed
+APT00722,2026-06-22,Baltimore Central,Cardiology,32,,No Show
+APT00723,2026-03-23,Towson North,Cardiology,29,,No Show
+APT00724,2026-04-02,Towson North,Cardiology,18,17,Completed
+APT00725,2026-06-22,Columbia West,Primary Care,24,8,Completed
+APT00726,2026-01-28,Towson North,Orthopedics,26,29,Completed
+APT00727,2026-01-07,Towson North,Cardiology,31,16,Completed
+APT00728,2026-02-23,Towson North,Cardiology,15,23,Completed
+APT00729,2026-04-20,Columbia West,Orthopedics,10,11,Completed
+APT00730,2026-05-28,Baltimore Central,Primary Care,8,28,Completed
+APT00731,2026-03-30,Baltimore Central,Primary Care,3,,No Show
+APT00732,2026-05-05,Towson North,Primary Care,16,8,Completed
+APT00733,2026-01-07,Baltimore Central,Orthopedics,38,29,Completed
+APT00734,2026-06-22,Baltimore Central,Orthopedics,12,14,Completed
+APT00735,2026-02-09,Towson North,Cardiology,7,24,Completed
+APT00736,2026-06-16,Towson North,Primary Care,13,0,Completed
+APT00737,2026-02-09,Columbia West,Cardiology,30,10,Completed
+APT00738,2026-01-16,Towson North,Orthopedics,28,22,Completed
+APT00739,2026-02-09,Baltimore Central,Orthopedics,28,18,Completed
+APT00740,2026-04-06,Baltimore Central,Cardiology,19,,No Show
+APT00741,2026-02-26,Baltimore Central,Primary Care,2,17,Completed
+APT00742,2026-06-15,Baltimore Central,Primary Care,33,22,Completed
+APT00743,2026-04-29,Baltimore Central,Cardiology,22,21,Completed
+APT00744,2026-04-29,Baltimore Central,Endocrinology,31,19,Completed
+APT00745,2026-05-11,Baltimore Central,Cardiology,11,9,Completed
+APT00746,2026-03-16,Towson North,Primary Care,23,7,Completed
+APT00747,2026-03-11,Baltimore Central,Primary Care,5,31,Completed
+APT00748,2026-06-15,Towson North,Orthopedics,29,,No Show
+APT00749,2026-01-12,Towson North,Primary Care,12,5,Completed
+APT00750,2026-01-12,Baltimore Central,Cardiology,19,,No Show
+APT00751,2026-05-12,Baltimore Central,Orthopedics,16,14,Completed
+APT00752,2026-06-16,Towson North,Cardiology,43,27,Completed
+APT00753,2026-02-11,Baltimore Central,Cardiology,41,,No Show
+APT00754,2026-03-10,Towson North,Primary Care,21,17,Completed
+APT00755,2026-04-17,Baltimore Central,Primary Care,14,13,Completed
+APT00756,2026-05-11,Baltimore Central,Cardiology,42,21,Completed
+APT00757,2026-06-10,Columbia West,Primary Care,20,20,Completed
+APT00758,2026-02-16,Baltimore Central,Primary Care,11,11,Completed
+APT00759,2026-05-18,Baltimore Central,Cardiology,23,,No Show
+APT00760,2026-04-16,Baltimore Central,Primary Care,16,22,Completed
+APT00761,2026-05-19,Baltimore Central,Primary Care,12,16,Completed
+APT00762,2026-04-06,Baltimore Central,Primary Care,9,13,Completed
+APT00763,2026-06-22,Columbia West,Cardiology,18,2,Completed
+APT00764,2026-04-22,Towson North,Endocrinology,38,8,Completed
+APT00765,2026-01-12,Baltimore Central,Primary Care,14,22,Completed
+APT00766,2026-04-20,Baltimore Central,Primary Care,16,8,Completed
+APT00767,2026-03-16,Baltimore Central,Primary Care,18,12,Completed
+APT00768,2026-02-09,Baltimore Central,Cardiology,15,16,Completed
+APT00769,2026-02-18,Towson North,Orthopedics,38,0,Completed
+APT00770,2026-05-29,Baltimore Central,Cardiology,14,22,Completed
+APT00771,2026-03-16,Columbia West,Primary Care,31,,No Show
+APT00772,2026-03-10,Columbia West,Cardiology,23,,No Show
+APT00773,2026-04-06,Columbia West,Endocrinology,37,7,Completed
+APT00774,2026-04-17,Baltimore Central,Cardiology,14,,No Show
+APT00775,2026-06-09,Columbia West,Cardiology,32,9,Completed
+APT00776,2026-02-04,Columbia West,Orthopedics,29,16,Completed
+APT00777,2026-06-26,Baltimore Central,Primary Care,14,16,Completed
+APT00778,2026-02-11,Baltimore Central,Primary Care,4,12,Completed
+APT00779,2026-03-27,Baltimore Central,Primary Care,0,3,Completed
+APT00780,2026-02-02,Columbia West,Primary Care,24,22,Completed
+APT00781,2026-05-27,Baltimore Central,Endocrinology,36,,No Show
+APT00782,2026-06-16,Baltimore Central,Primary Care,7,6,Completed
+APT00783,2026-02-11,Baltimore Central,Primary Care,27,8,Completed
+APT00784,2026-05-15,Towson North,Primary Care,12,13,Completed
+APT00785,2026-06-15,Baltimore Central,Cardiology,21,,No Show
+APT00786,2026-01-22,Towson North,Cardiology,16,2,Completed
+APT00787,2026-02-05,Baltimore Central,Primary Care,31,,No Show
+APT00788,2026-04-14,Columbia West,Primary Care,18,20,Completed
+APT00789,2026-02-16,Towson North,Primary Care,7,23,Completed
+APT00790,2026-02-16,Baltimore Central,Primary Care,8,16,Completed
+APT00791,2026-04-20,Baltimore Central,Cardiology,26,33,Completed
+APT00792,2026-05-19,Baltimore Central,Cardiology,35,,No Show
+APT00793,2026-05-27,Towson North,Primary Care,15,10,Completed
+APT00794,2026-05-13,Baltimore Central,Primary Care,20,,No Show
+APT00795,2026-04-27,Baltimore Central,Orthopedics,21,,No Show
+APT00796,2026-02-19,Baltimore Central,Orthopedics,19,,No Show
+APT00797,2026-05-21,Towson North,Cardiology,14,3,Completed
+APT00798,2026-03-19,Columbia West,Primary Care,12,,No Show
+APT00799,2026-03-27,Columbia West,Orthopedics,13,0,Completed
+APT00800,2026-06-04,Baltimore Central,Orthopedics,39,,No Show
+APT00801,2026-03-16,Baltimore Central,Orthopedics,1,27,Completed
+APT00802,2026-02-27,Baltimore Central,Endocrinology,24,18,Completed
+APT00803,2026-06-25,Towson North,Endocrinology,26,1,Completed
+APT00804,2026-03-23,Baltimore Central,Primary Care,14,,No Show
+APT00805,2026-04-15,Towson North,Endocrinology,14,9,Completed
+APT00806,2026-06-15,Baltimore Central,Cardiology,14,23,Completed
+APT00807,2026-05-11,Baltimore Central,Cardiology,16,6,Completed
+APT00808,2026-03-03,Towson North,Orthopedics,39,8,Completed
+APT00809,2026-04-16,Baltimore Central,Primary Care,16,,No Show
+APT00810,2026-04-30,Columbia West,Endocrinology,7,11,Completed
+APT00811,2026-02-26,Towson North,Orthopedics,25,0,Completed
+APT00812,2026-03-30,Baltimore Central,Cardiology,11,23,Completed
+APT00813,2026-01-13,Columbia West,Cardiology,25,8,Completed
+APT00814,2026-04-21,Columbia West,Primary Care,5,10,Completed
+APT00815,2026-04-06,Towson North,Cardiology,21,15,Completed
+APT00816,2026-05-04,Towson North,Primary Care,31,,No Show
+APT00817,2026-05-15,Columbia West,Orthopedics,30,9,Completed
+APT00818,2026-01-19,Baltimore Central,Endocrinology,43,11,Completed
+APT00819,2026-05-18,Baltimore Central,Endocrinology,38,,No Show
+APT00820,2026-06-17,Baltimore Central,Primary Care,18,13,Completed
+APT00821,2026-05-04,Columbia West,Orthopedics,22,,No Show
+APT00822,2026-05-19,Baltimore Central,Primary Care,40,,No Show
+APT00823,2026-06-08,Columbia West,Cardiology,33,3,Completed
+APT00824,2026-05-11,Columbia West,Primary Care,14,10,Completed
+APT00825,2026-03-19,Baltimore Central,Endocrinology,37,,No Show
+APT00826,2026-06-17,Baltimore Central,Primary Care,17,19,Completed
+APT00827,2026-05-04,Baltimore Central,Primary Care,27,18,Completed
+APT00828,2026-06-08,Baltimore Central,Primary Care,18,18,Completed
+APT00829,2026-03-16,Columbia West,Primary Care,19,,No Show
+APT00830,2026-03-16,Columbia West,Endocrinology,1,13,Completed
+APT00831,2026-03-30,Baltimore Central,Primary Care,28,,No Show
+APT00832,2026-02-09,Baltimore Central,Cardiology,26,16,Completed
+APT00833,2026-05-11,Towson North,Orthopedics,18,30,Completed
+APT00834,2026-02-18,Towson North,Primary Care,9,8,Completed
+APT00835,2026-06-26,Columbia West,Primary Care,30,11,Completed
+APT00836,2026-02-09,Baltimore Central,Cardiology,34,,No Show
+APT00837,2026-04-23,Baltimore Central,Primary Care,5,18,Completed
+APT00838,2026-01-23,Towson North,Orthopedics,20,19,Completed
+APT00839,2026-03-23,Towson North,Primary Care,21,4,Completed
+APT00840,2026-04-24,Baltimore Central,Primary Care,20,19,Completed
+APT00841,2026-03-17,Towson North,Endocrinology,28,5,Completed
+APT00842,2026-05-25,Columbia West,Cardiology,26,19,Completed
+APT00843,2026-05-08,Baltimore Central,Orthopedics,30,18,Completed
+APT00844,2026-06-22,Baltimore Central,Orthopedics,23,6,Completed
+APT00845,2026-06-15,Towson North,Primary Care,15,23,Completed
+APT00846,2026-03-13,Baltimore Central,Endocrinology,8,25,Completed
+APT00847,2026-03-23,Towson North,Primary Care,16,12,Completed
+APT00848,2026-01-22,Towson North,Cardiology,24,14,Completed
+APT00849,2026-05-18,Towson North,Primary Care,7,16,Completed
+APT00850,2026-06-22,Baltimore Central,Cardiology,23,,No Show
+APT00851,2026-05-19,Baltimore Central,Endocrinology,27,,No Show
+APT00852,2026-04-22,Towson North,Orthopedics,28,0,Completed
+APT00853,2026-02-09,Towson North,Cardiology,20,13,Completed
+APT00854,2026-02-09,Baltimore Central,Primary Care,0,27,Completed
+APT00855,2026-01-16,Baltimore Central,Cardiology,36,26,Completed
+APT00856,2026-04-07,Baltimore Central,Cardiology,39,,No Show
+APT00857,2026-04-07,Columbia West,Primary Care,13,0,Completed
+APT00858,2026-03-09,Baltimore Central,Orthopedics,22,2,Completed
+APT00859,2026-02-09,Baltimore Central,Orthopedics,27,28,Completed
+APT00860,2026-01-12,Towson North,Primary Care,10,9,Completed
+APT00861,2026-04-03,Towson North,Primary Care,11,,No Show
+APT00862,2026-03-25,Towson North,Primary Care,10,7,Completed
+APT00863,2026-06-01,Columbia West,Primary Care,4,18,Completed
+APT00864,2026-02-02,Towson North,Primary Care,18,19,Completed
+APT00865,2026-04-06,Baltimore Central,Endocrinology,26,,No Show
+APT00866,2026-04-16,Baltimore Central,Endocrinology,13,3,Completed
+APT00867,2026-04-06,Baltimore Central,Endocrinology,16,,No Show
+APT00868,2026-03-03,Baltimore Central,Cardiology,19,24,Completed
+APT00869,2026-02-23,Baltimore Central,Primary Care,14,2,Completed
+APT00870,2026-05-11,Baltimore Central,Primary Care,0,19,Completed
+APT00871,2026-06-15,Columbia West,Primary Care,12,21,Completed
+APT00872,2026-02-02,Columbia West,Primary Care,2,13,Completed
+APT00873,2026-03-31,Towson North,Primary Care,4,14,Completed
+APT00874,2026-04-02,Baltimore Central,Primary Care,14,2,Completed
+APT00875,2026-06-04,Baltimore Central,Cardiology,22,23,Completed
+APT00876,2026-03-25,Columbia West,Orthopedics,14,0,Completed
+APT00877,2026-01-22,Columbia West,Primary Care,15,,No Show
+APT00878,2026-05-25,Towson North,Endocrinology,27,,No Show
+APT00879,2026-05-13,Baltimore Central,Primary Care,5,14,Completed
+APT00880,2026-06-25,Towson North,Primary Care,22,0,Completed
+APT00881,2026-06-24,Baltimore Central,Primary Care,2,19,Completed
+APT00882,2026-03-10,Baltimore Central,Orthopedics,18,11,Completed
+APT00883,2026-04-27,Baltimore Central,Cardiology,27,18,Completed
+APT00884,2026-02-24,Columbia West,Primary Care,20,12,Completed
+APT00885,2026-02-16,Towson North,Endocrinology,34,,No Show
+APT00886,2026-06-26,Columbia West,Endocrinology,29,,No Show
+APT00887,2026-05-27,Towson North,Orthopedics,37,,No Show
+APT00888,2026-04-27,Towson North,Endocrinology,34,2,Completed
+APT00889,2026-06-18,Towson North,Orthopedics,35,22,Completed
+APT00890,2026-03-20,Towson North,Primary Care,17,17,Completed
+APT00891,2026-06-03,Baltimore Central,Primary Care,20,,No Show
+APT00892,2026-02-03,Baltimore Central,Endocrinology,38,14,Completed
+APT00893,2026-04-08,Baltimore Central,Cardiology,20,,No Show
+APT00894,2026-05-28,Baltimore Central,Primary Care,8,21,Completed
+APT00895,2026-03-12,Baltimore Central,Cardiology,8,27,Completed
+APT00896,2026-05-20,Towson North,Cardiology,25,9,Completed
+APT00897,2026-02-24,Baltimore Central,Cardiology,24,,No Show
+APT00898,2026-06-29,Columbia West,Primary Care,26,11,Completed
+APT00899,2026-01-19,Baltimore Central,Orthopedics,24,14,Completed
+APT00900,2026-06-18,Towson North,Endocrinology,30,,No Show
+APT00901,2026-02-03,Towson North,Orthopedics,28,2,Completed
+APT00902,2026-01-30,Towson North,Primary Care,18,33,Completed
+APT00903,2026-06-03,Columbia West,Primary Care,15,14,Completed
+APT00904,2026-03-20,Towson North,Orthopedics,35,,No Show
+APT00905,2026-03-09,Baltimore Central,Cardiology,25,10,Completed
+APT00906,2026-04-13,Towson North,Cardiology,10,8,Completed
+APT00907,2026-05-22,Baltimore Central,Primary Care,8,18,Completed
+APT00908,2026-03-16,Baltimore Central,Primary Care,0,24,Completed
+APT00909,2026-05-21,Towson North,Endocrinology,13,9,Completed
+APT00910,2026-01-08,Baltimore Central,Primary Care,14,21,Completed
+APT00911,2026-03-04,Baltimore Central,Orthopedics,7,27,Completed
+APT00912,2026-04-20,Columbia West,Primary Care,25,,No Show
+APT00913,2026-06-24,Towson North,Cardiology,15,10,Completed
+APT00914,2026-04-10,Towson North,Primary Care,18,6,Completed
+APT00915,2026-01-07,Towson North,Cardiology,18,6,Completed
+APT00916,2026-05-25,Towson North,Primary Care,13,9,Completed
+APT00917,2026-05-08,Columbia West,Primary Care,19,9,Completed
+APT00918,2026-06-22,Baltimore Central,Primary Care,8,,No Show
+APT00919,2026-04-27,Towson North,Endocrinology,13,12,Completed
+APT00920,2026-06-22,Baltimore Central,Endocrinology,19,16,Completed
+APT00921,2026-02-12,Baltimore Central,Cardiology,26,20,Completed
+APT00922,2026-06-09,Columbia West,Primary Care,8,12,Completed
+APT00923,2026-06-03,Baltimore Central,Primary Care,13,8,Completed
+APT00924,2026-04-06,Baltimore Central,Endocrinology,13,23,Completed
+APT00925,2026-04-14,Columbia West,Cardiology,17,6,Completed
+APT00926,2026-03-31,Baltimore Central,Primary Care,13,,No Show
+APT00927,2026-03-16,Towson North,Primary Care,16,,No Show
+APT00928,2026-05-26,Baltimore Central,Orthopedics,25,12,Completed
+APT00929,2026-04-20,Towson North,Primary Care,28,22,Completed
+APT00930,2026-04-03,Towson North,Primary Care,23,9,Completed
+APT00931,2026-01-26,Baltimore Central,Primary Care,14,,No Show
+APT00932,2026-02-09,Towson North,Cardiology,33,11,Completed
+APT00933,2026-05-29,Baltimore Central,Primary Care,9,31,Completed
+APT00934,2026-05-18,Baltimore Central,Cardiology,7,,No Show
+APT00935,2026-03-03,Towson North,Primary Care,24,8,Completed
+APT00936,2026-04-08,Columbia West,Orthopedics,31,2,Completed
+APT00937,2026-06-05,Towson North,Orthopedics,18,28,Completed
+APT00938,2026-01-16,Towson North,Endocrinology,38,20,Completed
+APT00939,2026-01-26,Towson North,Primary Care,6,9,Completed
+APT00940,2026-03-30,Baltimore Central,Primary Care,5,,No Show
+APT00941,2026-01-15,Baltimore Central,Primary Care,25,,No Show
+APT00942,2026-05-19,Columbia West,Primary Care,14,0,Completed
+APT00943,2026-03-12,Baltimore Central,Primary Care,19,21,Completed
+APT00944,2026-06-19,Columbia West,Cardiology,28,18,Completed
+APT00945,2026-01-22,Columbia West,Primary Care,9,5,Completed
+APT00946,2026-01-16,Baltimore Central,Primary Care,8,25,Completed
+APT00947,2026-02-16,Towson North,Endocrinology,10,17,Completed
+APT00948,2026-03-12,Baltimore Central,Primary Care,15,31,Completed
+APT00949,2026-01-06,Baltimore Central,Primary Care,22,,No Show
+APT00950,2026-02-02,Towson North,Primary Care,24,,No Show
+APT00951,2026-03-23,Baltimore Central,Primary Care,32,13,Completed
+APT00952,2026-05-08,Columbia West,Primary Care,16,,No Show
+APT00953,2026-03-31,Columbia West,Endocrinology,23,0,Completed
+APT00954,2026-04-27,Towson North,Primary Care,26,15,Completed
+APT00955,2026-03-09,Columbia West,Cardiology,35,4,Completed
+APT00956,2026-05-11,Columbia West,Orthopedics,35,16,Completed
+APT00957,2026-05-27,Towson North,Endocrinology,26,4,Completed
+APT00958,2026-05-19,Baltimore Central,Primary Care,13,16,Completed
+APT00959,2026-04-22,Baltimore Central,Primary Care,14,18,Completed
+APT00960,2026-05-20,Baltimore Central,Primary Care,16,16,Completed
+APT00961,2026-02-19,Columbia West,Endocrinology,19,19,Completed
+APT00962,2026-02-11,Columbia West,Cardiology,21,8,Completed
+APT00963,2026-06-08,Baltimore Central,Cardiology,0,19,Completed
+APT00964,2026-04-10,Baltimore Central,Primary Care,1,14,Completed
+APT00965,2026-04-17,Towson North,Primary Care,33,12,Completed
+APT00966,2026-06-29,Towson North,Cardiology,28,0,Completed
+APT00967,2026-05-27,Columbia West,Cardiology,19,,No Show
+APT00968,2026-05-11,Baltimore Central,Endocrinology,40,,No Show
+APT00969,2026-04-20,Columbia West,Primary Care,3,11,Completed
+APT00970,2026-01-05,Towson North,Primary Care,14,23,Completed
+APT00971,2026-06-01,Baltimore Central,Primary Care,3,6,Completed
+APT00972,2026-02-09,Baltimore Central,Cardiology,30,16,Completed
+APT00973,2026-02-04,Columbia West,Primary Care,3,18,Completed
+APT00974,2026-03-12,Towson North,Primary Care,16,5,Completed
+APT00975,2026-02-02,Baltimore Central,Orthopedics,29,,No Show
+APT00976,2026-04-16,Columbia West,Endocrinology,32,4,Completed
+APT00977,2026-02-18,Baltimore Central,Primary Care,19,7,Completed
+APT00978,2026-05-29,Baltimore Central,Endocrinology,14,13,Completed
+APT00979,2026-03-23,Baltimore Central,Cardiology,26,24,Completed
+APT00980,2026-01-09,Baltimore Central,Endocrinology,8,19,Completed
+APT00981,2026-01-21,Baltimore Central,Primary Care,11,23,Completed
+APT00982,2026-01-22,Towson North,Primary Care,26,13,Completed
+APT00983,2026-05-11,Baltimore Central,Cardiology,24,15,Completed
+APT00984,2026-06-08,Baltimore Central,Cardiology,9,10,Completed
+APT00985,2026-06-01,Baltimore Central,Primary Care,6,0,Completed
+APT00986,2026-03-23,Baltimore Central,Primary Care,21,23,Completed
+APT00987,2026-06-15,Baltimore Central,Primary Care,0,31,Completed
+APT00988,2026-03-11,Towson North,Cardiology,20,25,Completed
+APT00989,2026-01-12,Towson North,Endocrinology,31,0,Completed
+APT00990,2026-01-07,Columbia West,Cardiology,33,1,Completed
+APT00991,2026-03-23,Baltimore Central,Primary Care,13,15,Completed
+APT00992,2026-01-06,Baltimore Central,Primary Care,25,26,Completed
+APT00993,2026-04-15,Columbia West,Cardiology,40,24,Completed
+APT00994,2026-03-27,Towson North,Orthopedics,22,12,Completed
+APT00995,2026-05-18,Baltimore Central,Primary Care,21,11,Completed
+APT00996,2026-01-12,Columbia West,Primary Care,25,3,Completed
+APT00997,2026-01-30,Baltimore Central,Primary Care,12,9,Completed
+APT00998,2026-03-25,Towson North,Primary Care,9,10,Completed
+APT00999,2026-02-05,Towson North,Orthopedics,27,,No Show
+APT01000,2026-05-18,Towson North,Primary Care,27,2,Completed
+APT01001,2026-06-15,Towson North,Primary Care,3,0,Completed
+APT01002,2026-04-30,Baltimore Central,Primary Care,15,24,Completed
+APT01003,2026-02-18,Baltimore Central,Primary Care,23,7,Completed
+APT01004,2026-01-16,Baltimore Central,Primary Care,10,33,Completed
+APT01005,2026-06-01,Towson North,Primary Care,21,,No Show
+APT01006,2026-01-26,Baltimore Central,Endocrinology,20,12,Completed
+APT01007,2026-02-17,Towson North,Endocrinology,38,3,Completed
+APT01008,2026-01-19,Baltimore Central,Orthopedics,3,,No Show
+APT01009,2026-06-25,Baltimore Central,Cardiology,36,22,Completed
+APT01010,2026-02-25,Baltimore Central,Primary Care,0,14,Completed
+APT01011,2026-04-23,Baltimore Central,Primary Care,21,15,Completed
+APT01012,2026-06-12,Baltimore Central,Primary Care,17,30,Completed
+APT01013,2026-05-15,Baltimore Central,Primary Care,9,,No Show
+APT01014,2026-04-13,Towson North,Primary Care,23,,No Show
+APT01015,2026-06-18,Towson North,Primary Care,4,0,Completed
+APT01016,2026-02-23,Towson North,Orthopedics,28,2,Completed
+APT01017,2026-01-16,Baltimore Central,Orthopedics,29,7,Completed
+APT01018,2026-05-04,Columbia West,Primary Care,26,11,Completed
+APT01019,2026-03-30,Baltimore Central,Cardiology,33,21,Completed
+APT01020,2026-03-02,Columbia West,Primary Care,9,13,Completed
+APT01021,2026-05-21,Baltimore Central,Primary Care,22,19,Completed
+APT01022,2026-02-09,Baltimore Central,Cardiology,23,1,Completed
+APT01023,2026-03-12,Towson North,Primary Care,19,6,Completed
+APT01024,2026-01-26,Towson North,Primary Care,20,17,Completed
+APT01025,2026-04-06,Columbia West,Primary Care,24,16,Completed
+APT01026,2026-04-13,Towson North,Cardiology,15,20,Completed
+APT01027,2026-05-14,Towson North,Primary Care,23,8,Completed
+APT01028,2026-04-01,Baltimore Central,Primary Care,21,30,Completed
+APT01029,2026-05-18,Columbia West,Primary Care,14,11,Completed
+APT01030,2026-03-20,Columbia West,Primary Care,7,18,Completed
+APT01031,2026-06-02,Towson North,Cardiology,17,,No Show
+APT01032,2026-02-12,Towson North,Primary Care,17,,No Show
+APT01033,2026-05-11,Columbia West,Orthopedics,8,8,Completed
+APT01034,2026-06-04,Baltimore Central,Orthopedics,28,22,Completed
+APT01035,2026-06-12,Baltimore Central,Cardiology,26,,No Show
+APT01036,2026-06-16,Baltimore Central,Endocrinology,27,0,Completed
+APT01037,2026-02-12,Baltimore Central,Orthopedics,16,16,Completed
+APT01038,2026-03-13,Baltimore Central,Primary Care,12,32,Completed
+APT01039,2026-03-24,Baltimore Central,Orthopedics,17,,No Show
+APT01040,2026-06-01,Baltimore Central,Endocrinology,15,14,Completed
+APT01041,2026-05-26,Columbia West,Orthopedics,32,10,Completed
+APT01042,2026-01-12,Towson North,Primary Care,24,20,Completed
+APT01043,2026-06-08,Baltimore Central,Primary Care,18,25,Completed
+APT01044,2026-02-02,Baltimore Central,Endocrinology,18,,No Show
+APT01045,2026-01-29,Towson North,Orthopedics,24,13,Completed
+APT01046,2026-02-16,Towson North,Orthopedics,28,,No Show
+APT01047,2026-02-05,Towson North,Primary Care,12,18,Completed
+APT01048,2026-05-08,Baltimore Central,Cardiology,9,25,Completed
+APT01049,2026-04-20,Columbia West,Primary Care,19,15,Completed
+APT01050,2026-01-08,Towson North,Primary Care,13,15,Completed
+APT01051,2026-04-22,Baltimore Central,Orthopedics,3,9,Completed
+APT01052,2026-02-05,Baltimore Central,Cardiology,15,17,Completed
+APT01053,2026-05-11,Towson North,Cardiology,16,11,Completed
+APT01054,2026-04-22,Towson North,Cardiology,9,15,Completed
+APT01055,2026-01-27,Towson North,Endocrinology,36,2,Completed
+APT01056,2026-06-01,Towson North,Primary Care,26,0,Completed
+APT01057,2026-04-27,Towson North,Primary Care,14,14,Completed
+APT01058,2026-03-04,Baltimore Central,Endocrinology,12,30,Completed
+APT01059,2026-05-08,Towson North,Cardiology,25,26,Completed
+APT01060,2026-03-17,Columbia West,Primary Care,38,0,Completed
+APT01061,2026-03-13,Baltimore Central,Primary Care,24,,No Show
+APT01062,2026-05-25,Baltimore Central,Primary Care,30,12,Completed
+APT01063,2026-05-11,Towson North,Orthopedics,26,,No Show
+APT01064,2026-06-16,Baltimore Central,Orthopedics,15,,No Show
+APT01065,2026-05-04,Baltimore Central,Orthopedics,32,23,Completed
+APT01066,2026-04-13,Towson North,Primary Care,0,,No Show
+APT01067,2026-03-17,Baltimore Central,Primary Care,6,26,Completed
+APT01068,2026-01-26,Baltimore Central,Primary Care,3,30,Completed
+APT01069,2026-05-18,Towson North,Primary Care,6,15,Completed
+APT01070,2026-01-15,Baltimore Central,Orthopedics,26,20,Completed
+APT01071,2026-03-16,Columbia West,Endocrinology,10,14,Completed
+APT01072,2026-04-17,Towson North,Primary Care,0,15,Completed
+APT01073,2026-03-23,Columbia West,Orthopedics,26,18,Completed
+APT01074,2026-02-20,Columbia West,Primary Care,5,10,Completed
+APT01075,2026-02-06,Baltimore Central,Primary Care,9,16,Completed
+APT01076,2026-06-15,Columbia West,Primary Care,9,8,Completed
+APT01077,2026-05-18,Towson North,Cardiology,17,,No Show
+APT01078,2026-01-12,Baltimore Central,Orthopedics,25,33,Completed
+APT01079,2026-06-15,Baltimore Central,Orthopedics,14,,No Show
+APT01080,2026-03-13,Baltimore Central,Cardiology,7,19,Completed
+APT01081,2026-05-25,Baltimore Central,Primary Care,20,26,Completed
+APT01082,2026-05-04,Baltimore Central,Cardiology,20,,No Show
+APT01083,2026-01-20,Baltimore Central,Endocrinology,33,,No Show
+APT01084,2026-02-03,Baltimore Central,Endocrinology,25,17,Completed
+APT01085,2026-03-10,Baltimore Central,Endocrinology,27,13,Completed
+APT01086,2026-01-26,Baltimore Central,Primary Care,15,,No Show
+APT01087,2026-02-06,Baltimore Central,Orthopedics,23,14,Completed
+APT01088,2026-05-27,Baltimore Central,Orthopedics,20,17,Completed
+APT01089,2026-05-18,Towson North,Primary Care,23,0,Completed
+APT01090,2026-04-30,Columbia West,Primary Care,14,3,Completed
+APT01091,2026-01-06,Baltimore Central,Endocrinology,25,,No Show
+APT01092,2026-03-30,Columbia West,Orthopedics,17,,No Show
+APT01093,2026-06-01,Baltimore Central,Orthopedics,27,8,Completed
+APT01094,2026-01-09,Columbia West,Orthopedics,22,5,Completed
+APT01095,2026-06-09,Columbia West,Primary Care,15,,No Show
+APT01096,2026-03-09,Towson North,Cardiology,20,12,Completed
+APT01097,2026-04-03,Towson North,Orthopedics,21,1,Completed
+APT01098,2026-06-11,Towson North,Endocrinology,24,5,Completed
+APT01099,2026-05-11,Columbia West,Primary Care,28,0,Completed
+APT01100,2026-05-12,Columbia West,Endocrinology,19,,No Show
+APT01101,2026-05-05,Baltimore Central,Primary Care,16,,No Show
+APT01102,2026-05-07,Columbia West,Primary Care,6,15,Completed
+APT01103,2026-03-09,Baltimore Central,Orthopedics,31,,No Show
+APT01104,2026-05-01,Baltimore Central,Primary Care,11,0,Completed
+APT01105,2026-01-16,Towson North,Primary Care,18,,No Show
+APT01106,2026-03-02,Baltimore Central,Endocrinology,26,15,Completed
+APT01107,2026-05-18,Towson North,Orthopedics,16,19,Completed
+APT01108,2026-01-26,Baltimore Central,Primary Care,24,18,Completed
+APT01109,2026-03-06,Columbia West,Cardiology,18,4,Completed
+APT01110,2026-03-05,Towson North,Cardiology,21,35,Completed
+APT01111,2026-04-22,Baltimore Central,Primary Care,16,,No Show
+APT01112,2026-06-22,Baltimore Central,Primary Care,12,15,Completed
+APT01113,2026-03-23,Columbia West,Orthopedics,10,16,Completed
+APT01114,2026-05-20,Columbia West,Cardiology,37,,No Show
+APT01115,2026-02-24,Baltimore Central,Primary Care,4,,No Show
+APT01116,2026-05-04,Towson North,Primary Care,0,4,Completed
+APT01117,2026-05-07,Baltimore Central,Endocrinology,15,22,Completed
+APT01118,2026-05-12,Towson North,Endocrinology,14,,No Show
+APT01119,2026-05-14,Baltimore Central,Cardiology,38,16,Completed
+APT01120,2026-05-11,Columbia West,Primary Care,12,,No Show
+APT01121,2026-03-25,Baltimore Central,Cardiology,32,10,Completed
+APT01122,2026-04-01,Towson North,Primary Care,23,7,Completed
+APT01123,2026-06-22,Columbia West,Primary Care,11,0,Completed
+APT01124,2026-05-12,Baltimore Central,Cardiology,29,27,Completed
+APT01125,2026-05-18,Baltimore Central,Cardiology,13,18,Completed
+APT01126,2026-04-29,Columbia West,Primary Care,15,6,Completed
+APT01127,2026-04-13,Towson North,Primary Care,16,12,Completed
+APT01128,2026-04-14,Towson North,Cardiology,0,4,Completed
+APT01129,2026-02-17,Baltimore Central,Endocrinology,23,27,Completed
+APT01130,2026-06-01,Baltimore Central,Cardiology,32,,No Show
+APT01131,2026-06-29,Columbia West,Primary Care,17,,No Show
+APT01132,2026-06-01,Baltimore Central,Orthopedics,13,,No Show
+APT01133,2026-02-11,Baltimore Central,Cardiology,33,,No Show
+APT01134,2026-01-22,Towson North,Primary Care,13,21,Completed
+APT01135,2026-03-30,Towson North,Primary Care,21,10,Completed
+APT01136,2026-05-07,Towson North,Primary Care,21,24,Completed
+APT01137,2026-06-15,Towson North,Endocrinology,22,11,Completed
+APT01138,2026-01-19,Baltimore Central,Orthopedics,46,25,Completed
+APT01139,2026-02-11,Towson North,Cardiology,16,4,Completed
+APT01140,2026-06-04,Towson North,Endocrinology,24,33,Completed
+APT01141,2026-03-30,Towson North,Cardiology,28,0,Completed
+APT01142,2026-04-20,Columbia West,Primary Care,0,11,Completed
+APT01143,2026-02-16,Towson North,Endocrinology,18,15,Completed
+APT01144,2026-05-06,Columbia West,Endocrinology,28,27,Completed
+APT01145,2026-01-05,Baltimore Central,Cardiology,30,6,Completed
+APT01146,2026-02-23,Columbia West,Cardiology,17,0,Completed
+APT01147,2026-03-02,Baltimore Central,Orthopedics,28,13,Completed
+APT01148,2026-01-09,Towson North,Endocrinology,23,13,Completed
+APT01149,2026-01-20,Baltimore Central,Cardiology,25,,No Show
+APT01150,2026-05-01,Columbia West,Primary Care,14,4,Completed
+APT01151,2026-04-20,Towson North,Primary Care,21,15,Completed
+APT01152,2026-04-22,Columbia West,Primary Care,3,0,Completed
+APT01153,2026-01-14,Towson North,Cardiology,26,6,Completed
+APT01154,2026-01-07,Columbia West,Primary Care,34,0,Completed
+APT01155,2026-02-23,Baltimore Central,Primary Care,32,19,Completed
+APT01156,2026-04-13,Baltimore Central,Primary Care,6,,No Show
+APT01157,2026-04-17,Columbia West,Cardiology,0,16,Completed
+APT01158,2026-02-10,Towson North,Primary Care,0,0,Completed
+APT01159,2026-04-06,Baltimore Central,Cardiology,21,18,Completed
+APT01160,2026-06-25,Towson North,Primary Care,21,23,Completed
+APT01161,2026-06-09,Towson North,Primary Care,14,3,Completed
+APT01162,2026-01-20,Columbia West,Orthopedics,12,19,Completed
+APT01163,2026-06-16,Towson North,Primary Care,4,0,Completed
+APT01164,2026-06-09,Columbia West,Endocrinology,22,4,Completed
+APT01165,2026-03-12,Columbia West,Primary Care,12,,No Show
+APT01166,2026-03-18,Baltimore Central,Primary Care,4,19,Completed
+APT01167,2026-04-15,Towson North,Orthopedics,20,17,Completed
+APT01168,2026-01-12,Baltimore Central,Endocrinology,25,12,Completed
+APT01169,2026-05-15,Towson North,Orthopedics,22,9,Completed
+APT01170,2026-06-03,Baltimore Central,Primary Care,24,,No Show
+APT01171,2026-04-08,Towson North,Cardiology,23,0,Completed
+APT01172,2026-03-27,Columbia West,Primary Care,18,16,Completed
+APT01173,2026-05-20,Baltimore Central,Primary Care,38,,No Show
+APT01174,2026-01-28,Towson North,Orthopedics,16,12,Completed
+APT01175,2026-04-21,Towson North,Cardiology,0,10,Completed
+APT01176,2026-03-09,Towson North,Primary Care,31,1,Completed
+APT01177,2026-06-08,Columbia West,Primary Care,13,15,Completed
+APT01178,2026-06-15,Towson North,Primary Care,15,14,Completed
+APT01179,2026-04-20,Baltimore Central,Cardiology,18,13,Completed
+APT01180,2026-01-23,Baltimore Central,Endocrinology,29,,No Show
+APT01181,2026-03-13,Baltimore Central,Orthopedics,27,,No Show
+APT01182,2026-05-25,Columbia West,Cardiology,27,18,Completed
+APT01183,2026-03-16,Baltimore Central,Primary Care,9,23,Completed
+APT01184,2026-05-26,Towson North,Primary Care,15,13,Completed
+APT01185,2026-06-24,Baltimore Central,Primary Care,16,31,Completed
+APT01186,2026-05-12,Towson North,Cardiology,24,11,Completed
+APT01187,2026-02-23,Baltimore Central,Cardiology,33,28,Completed
+APT01188,2026-06-08,Towson North,Primary Care,17,16,Completed
+APT01189,2026-03-02,Towson North,Orthopedics,26,14,Completed
+APT01190,2026-04-27,Baltimore Central,Endocrinology,27,18,Completed
+APT01191,2026-01-12,Towson North,Primary Care,0,14,Completed
+APT01192,2026-02-16,Towson North,Cardiology,23,2,Completed
+APT01193,2026-04-27,Towson North,Cardiology,21,12,Completed
+APT01194,2026-05-20,Baltimore Central,Primary Care,16,,No Show
+APT01195,2026-04-30,Towson North,Cardiology,8,25,Completed
+APT01196,2026-05-18,Baltimore Central,Primary Care,18,30,Completed
+APT01197,2026-05-18,Towson North,Primary Care,29,13,Completed
+APT01198,2026-05-13,Baltimore Central,Orthopedics,20,16,Completed
+APT01199,2026-04-30,Baltimore Central,Endocrinology,30,18,Completed
+APT01200,2026-05-27,Baltimore Central,Endocrinology,27,7,Completed

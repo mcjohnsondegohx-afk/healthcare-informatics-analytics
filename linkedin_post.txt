@@ -1,0 +1,13 @@
+I’m excited to share a healthcare analytics portfolio project as I continue exploring internship opportunities in health informatics, healthcare data analytics, and healthcare IT for 2027.
+
+My project, Healthcare Access & Scheduling Analytics, uses 1,200 synthetic appointment records to explore appointment no-show rates, check-in wait times, and how scheduling lead times may relate to missed visits. Using SQL and Python, I developed reproducible queries and visualizations to examine these patterns and consider how data can inform hospital operations.
+
+One lesson that stands out is that meaningful healthcare analytics requires more than building a dashboard. It requires clear definitions, reliable data, awareness of patient privacy, and thoughtful interpretation before making operational decisions.
+
+I’m pursuing a B.S. in Computer Information Technology with a concentration in Data Analytics and a minor in Healthcare Management at Towson University. My experience with SQL, Power BI, data reporting, and enterprise IT support has motivated me to bring those skills into healthcare.
+
+I’m actively seeking 2027 internship opportunities in health informatics, healthcare data analytics, clinical information systems, and healthcare IT, particularly in the Baltimore, Washington, D.C., and Northern Virginia region. I would welcome connections with healthcare professionals, recruiters, and teams working in this space.
+
+Project preview attached. Dataset is fully synthetic and does not contain patient information.
+
+#HealthInformatics #HealthcareAnalytics #HealthIT #DataAnalytics #Internships
