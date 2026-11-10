@@ -44,8 +44,12 @@ Are definitions of no-shows consistent across sites? Are appointment cancellatio
 ## Candidate process improvements to evaluate
 Test reminder timing, review appointment lead times, compare scheduling workflows, and validate potential differences with actual data and clinical operations staff. Do not conclude that lead time *causes* missed appointments from this simulation.
 
-## Resume / LinkedIn integrity
-Describe this as a **personal portfolio project built with simulated data**. If you have not personally reviewed or reproduced the results yet, do not say you independently completed the analysis. Modify the script and add your own interpretation before posting.
+## Resume / LinkedIn Transperency
+This project was developed as a personal portfolio initiative to explore the application of data analytics and information technology within healthcare operations. It uses entirely synthetic patient scheduling data to demonstrate SQL querying, Python analysis, interactive dashboards, and healthcare performance reporting.
+
+The project serves as a foundation for continued hands-on learning in health informatics, with a focus on data accuracy, operational efficiency, and evidence-based decision-making.
+
+All findings are based on simulated data and do not represent actual healthcare facilities or patient outcomes.
 
 ## Live dashboard
 This repository includes `index.html` for GitHub Pages. Enable **Settings > Pages > Deploy from a branch > main > /(root)**, then use the public Pages URL. The dashboard visualizes synthetic data only.
